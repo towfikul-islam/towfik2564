@@ -4,7 +4,7 @@
 
 > Frontend Developer at [10 Minute School](https://www.10minuteschool.com)
 
-## I'm a Student, Developer and Teacher!
+## I'm a Student, Developer and Mentor!
 
 - 🔭 I’m currently working on educational website [10 Minute School][website]!
 - 🌱 I’m currently learning everything
@@ -38,6 +38,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
+
 [facebook]: https://www.facebook.com/towfikul.islam1/
 [website]: https://10minuteschool.com
 [instagram]: https://www.instagram.com/towfik_2564/
