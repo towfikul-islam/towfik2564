@@ -7,12 +7,12 @@
 ## I'm a Student, Developer and Mentor!
 
 - 🔭 I’m currently working on educational website [10 Minute School][website]!
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 🤣 Fun fact: I love to draw and singing 
 
-### Connect with me:
+### Connect me with:
 
 [<img align="left" alt="towfik2564 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="towfik2564 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
