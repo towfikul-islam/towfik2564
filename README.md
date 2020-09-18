@@ -49,14 +49,17 @@ Framework: [MDBootstrap](https://mdbootstrap.com/)
 
 -----
 
-[<img align="left" alt="culsa_website_thumbnail" title="click to visit cuelsa website" width:49% src="./assets/my_projects/images/cuelsa_website_codeforfood.png" />][cuelsa] 
+[<img align="left" alt="pedros_pizza_app_thumbnail" title="click to play video" width="25%" src="./assets/my_projects/images/pedros_pizza_angular_webapp_codeforfood.png" />][pedros_pizza] 
 
-About this site: CUELSA is an alumni assoication to build a self-motivated, self-directed and self-sustaining alumni association in Bangladesh. 
+About this site: It's a simple pizza scheduling and ordering web-app.
 
-Framework: [MDBootstrap](https://mdbootstrap.com/)
+Framework: [Angular](https://angular.io/)
+
+-----
 
 [facebook]: https://www.facebook.com/towfikul.islam1/
 [website]: https://10minuteschool.com
 [instagram]: https://www.instagram.com/towfik_2564/
 [linkedin]: https://linkedin.com/in/towfikul-islam
 [cuelsa]: http://cuelsa.org/
+[pedros_pizza]: https://drive.google.com/file/d/1z473GNFgoJKU0XYxLsGM6bDfWF7gIqBP/preview
