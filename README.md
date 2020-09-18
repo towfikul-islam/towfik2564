@@ -39,6 +39,12 @@
 
 <br />
 
+### Projects that I completed or contributed:
+
+<video controls preload="none" poster="./assets/my_projects/images/cuelsa_website_codeforfood.png">
+  <source src="./assets/my_projects/images/cuelsa_website_codeforfood.png.mp4" type="video/mp4">
+</video>
+
 [facebook]: https://www.facebook.com/towfikul.islam1/
 [website]: https://10minuteschool.com
 [instagram]: https://www.instagram.com/towfik_2564/
