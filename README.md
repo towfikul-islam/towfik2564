@@ -41,7 +41,7 @@
 
 ### Projects that I completed or contributed:
 
-[<img align="left" alt="GitHub" width="49%" src="./assets/my_projects/images/cuelsa_website_codeforfood.png" />][cuelsa]
+[<img align="left" alt="culsa_website_thumbnail" title="click to play video" style="width:49%;    box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 10px 0 rgba(0,0,0,.12);padding: .25rem;background-color: #fff;border: 1px solid #dee2e6;border-radius: .25rem;" src="./assets/my_projects/images/cuelsa_website_codeforfood.png" />][cuelsa]
 
 [facebook]: https://www.facebook.com/towfikul.islam1/
 [website]: https://10minuteschool.com
