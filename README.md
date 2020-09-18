@@ -49,7 +49,7 @@ Framework: [MDBootstrap](https://mdbootstrap.com/)
 
 -----
 
-[<img align="left" alt="pedros_pizza_app_thumbnail" title="click to play video" width="25%" src="./assets/my_projects/images/pedros_pizza_angular_webapp_codeforfood.png" />][pedros_pizza] 
+[<img align="left" alt="pedros_pizza_app_thumbnail" title="click to play video" width="25%" src="./assets/my_projects/images/pedros_pizza_angular_webapp_codeforfood_landscapemode.png" />][pedros_pizza] 
 
 About this site: It's a simple pizza scheduling and ordering web-app.
 
