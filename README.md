@@ -41,11 +41,7 @@
 
 ### Projects that I completed or contributed:
 
-[<img align="left" alt="GitHub" width="50px" src="./assets/my_projects/images/cuelsa_website_codeforfood.png" />][cuelsa]
-
-<video controls preload="none" poster="./assets/my_projects/images/cuelsa_website_codeforfood.png">
-  <source src="https://drive.google.com/file/d/1CiUtuKyRLOLIB_x3ERglM3ecY1MLMrqU/preview" type="video/mp4">
-</video>
+[<img align="left" alt="GitHub" width="49%" src="./assets/my_projects/images/cuelsa_website_codeforfood.png" />][cuelsa]
 
 <iframe src="https://drive.google.com/file/d/1CiUtuKyRLOLIB_x3ERglM3ecY1MLMrqU/preview" width="640" height="480"></iframe>
 
