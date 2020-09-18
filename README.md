@@ -43,8 +43,6 @@
 
 [<img align="left" alt="GitHub" width="49%" src="./assets/my_projects/images/cuelsa_website_codeforfood.png" />][cuelsa]
 
-<iframe src="https://drive.google.com/file/d/1CiUtuKyRLOLIB_x3ERglM3ecY1MLMrqU/preview" width="640" height="480"></iframe>
-
 [facebook]: https://www.facebook.com/towfikul.islam1/
 [website]: https://10minuteschool.com
 [instagram]: https://www.instagram.com/towfik_2564/
