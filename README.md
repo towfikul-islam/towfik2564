@@ -44,16 +44,17 @@
 [<img align="left" alt="culsa_website_thumbnail" title="click to play video" width="25%" src="./assets/my_projects/images/cuelsa_website_codeforfood.png" />][cuelsa] 
 
 **About this site:** CUELSA is an alumni assoication to build a self-motivated, self-directed and self-sustaining alumni association in Bangladesh. 
-**URL:** [http://cuelsa.org/][cuelsa]
+**URL:** [cuelsa_domain][cuelsa_domain]
 **Framework:** [MDBootstrap](https://mdbootstrap.com/)
 
 -----
+<br/>
 
 [<img align="left" alt="pedros_pizza_app_thumbnail" title="click to play video" width="25%" src="./assets/my_projects/images/pedros_pizza_angular_webapp_codeforfood_landscapemode.png" />][pedros_pizza] 
 
 
 **About this site:** It's a simple pizza scheduling and ordering web-app.
-**URL:** [http://cuelsa.org/][cuelsa]
+**URL:** [pedros_domain]
 **Framework:** [Angular](https://angular.io/)
 
 -----
@@ -62,5 +63,7 @@
 [website]: https://10minuteschool.com
 [instagram]: https://www.instagram.com/towfik_2564/
 [linkedin]: https://linkedin.com/in/towfikul-islam
-[cuelsa]: http://cuelsa.org/
+[cuelsa]: https://drive.google.com/file/d/1z473GNFgoJKU0XYxLsGM6bDfWF7gIqBP/preview
+[cuelsa_domain]: http://cuelsa.org/
+[pedros_domain]: Sorry, client didn't provide
 [pedros_pizza]: https://drive.google.com/file/d/1z473GNFgoJKU0XYxLsGM6bDfWF7gIqBP/preview
