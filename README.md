@@ -46,7 +46,9 @@
 About this site: CUELSA is an alumni assoication to build a self-motivated, self-directed and self-sustaining alumni association in Bangladesh. 
 
 Framework: [MDBootstrap](https://mdbootstrap.com/)
+
 -----
+
 [<img align="left" alt="culsa_website_thumbnail" title="click to visit cuelsa website" width:49% src="./assets/my_projects/images/cuelsa_website_codeforfood.png" />][cuelsa] 
 
 About this site: CUELSA is an alumni assoication to build a self-motivated, self-directed and self-sustaining alumni association in Bangladesh. 
