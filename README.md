@@ -40,7 +40,7 @@
 <br />
 
 ### Projects that I completed or contributed:
-
+![<img align="left" alt="GitHub" width="50px" src="./assets/my_projects/images/cuelsa_website_codeforfood.png" />][cuelsa]
 <video controls preload="none" poster="./assets/my_projects/images/cuelsa_website_codeforfood.png">
   <source src="https://drive.google.com/file/d/1CiUtuKyRLOLIB_x3ERglM3ecY1MLMrqU/preview" type="video/mp4">
 </video>
@@ -50,3 +50,4 @@
 [website]: https://10minuteschool.com
 [instagram]: https://www.instagram.com/towfik_2564/
 [linkedin]: https://linkedin.com/in/towfikul-islam
+[cuelsa]: https://drive.google.com/file/d/1CiUtuKyRLOLIB_x3ERglM3ecY1MLMrqU/preview
