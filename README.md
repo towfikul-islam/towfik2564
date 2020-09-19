@@ -53,7 +53,7 @@
 **Preview:** [Click to play video on drive][cuelsa]
 <br/>
 
-**Framework:** [MDBootstrap](https://mdbootstrap.com/)
+**Tools:** [MDBootstrap](https://mdbootstrap.com/), [Wordpress](https://wordpress.org/)
 
 -----
 <br/>
@@ -69,7 +69,23 @@
 **Preview:** [Click to play video on drive][pedros_pizza]
 <br/>
 
-**Framework:** [Angular](https://angular.io/)
+**Tools:** [Bootstap][bootstrap], [Angular](https://angular.io/)
+
+-----
+<br/>
+
+[<img align="left" alt="khamare_website_thumbnail" title="click to play video" width="40%" src="./assets/my_projects/images/khamare_wordpress_website_codeforfood_landscapemode.png.png" />][khamare] 
+
+**Khamar-e** is a dairy-tech solution provider, aiming at revolutionizing the dairy industry of Bangladesh.
+<br/>
+
+**URL:** Sorry client didn't provide.
+<br/>
+
+**Preview:** [Click to play video on drive][khamare]
+<br/>
+
+**Tools:** [Bootstrap](https://wordpress.org/), [Wordpress](https://wordpress.org/)
 
 -----
 
@@ -77,6 +93,8 @@
 [website]: https://10minuteschool.com
 [instagram]: https://www.instagram.com/towfik_2564/
 [linkedin]: https://linkedin.com/in/towfikul-islam
+[bootstrap]: https://v5.getbootstrap.com/
 [cuelsa]: https://drive.google.com/file/d/1CiUtuKyRLOLIB_x3ERglM3ecY1MLMrqU/view?usp=sharing
 [cuelsa_domain]: http://cuelsa.org/
 [pedros_pizza]: https://drive.google.com/file/d/1z473GNFgoJKU0XYxLsGM6bDfWF7gIqBP/view?usp=sharing
+[khamare]: https://drive.google.com/file/d/1a7e9xvsFjm3G60tYb2Y5Qzfm5Qll3IKL/view?usp=sharing
