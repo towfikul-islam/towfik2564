@@ -37,13 +37,14 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+
 <br />
 
-### My completed or contributed projects:
+### Few mentionable completed/contributed projects:
 
 [<img align="left" alt="culsa_website_thumbnail" title="click to play video" width="25%" src="./assets/my_projects/images/cuelsa_website_codeforfood.png" />][cuelsa] 
 
-**About this site:** CUELSA is an alumni assoication to build a self-motivated, self-directed and self-sustaining alumni association in Bangladesh.
+**CUELSA** is an alumni assoication to build a self-motivated, self-directed and self-sustaining alumni association in Bangladesh.
 <br/>
 
 **URL:** [http://cuelsa.org/][cuelsa_domain]
@@ -56,8 +57,7 @@
 
 [<img align="left" alt="pedros_pizza_app_thumbnail" title="click to play video" width="25%" src="./assets/my_projects/images/pedros_pizza_angular_webapp_codeforfood_landscapemode.png" />][pedros_pizza] 
 
-
-**About this site:** It's a simple pizza scheduling and ordering web-app.
+It's a simple pizza scheduling and ordering web-app.
 <br/>
 
 **URL:** Sorry client didn't provide.
@@ -71,6 +71,6 @@
 [website]: https://10minuteschool.com
 [instagram]: https://www.instagram.com/towfik_2564/
 [linkedin]: https://linkedin.com/in/towfikul-islam
-[cuelsa]: https://drive.google.com/file/d/1z473GNFgoJKU0XYxLsGM6bDfWF7gIqBP/preview
+[cuelsa]: https://drive.google.com/file/d/1CiUtuKyRLOLIB_x3ERglM3ecY1MLMrqU/view?usp=sharing
 [cuelsa_domain]: http://cuelsa.org/
-[pedros_pizza]: https://drive.google.com/file/d/1z473GNFgoJKU0XYxLsGM6bDfWF7gIqBP/preview
+[pedros_pizza]: https://drive.google.com/file/d/1z473GNFgoJKU0XYxLsGM6bDfWF7gIqBP/view?usp=sharing
