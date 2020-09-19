@@ -42,7 +42,7 @@
 
 ### Few mentionable completed/contributed projects:
 
-[<img align="left" alt="culsa_website_thumbnail" title="click to play video" width="25%" src="./assets/my_projects/images/cuelsa_website_codeforfood.png" />][cuelsa] 
+[<img align="left" alt="culsa_website_thumbnail" title="click to play video" width="40%" src="./assets/my_projects/images/cuelsa_website_codeforfood.png" />][cuelsa] 
 
 **CUELSA** is an alumni assoication to build a self-motivated, self-directed and self-sustaining alumni association in Bangladesh.
 <br/>
@@ -50,17 +50,23 @@
 **URL:** [http://cuelsa.org/][cuelsa_domain]
 <br/>
 
+**Preview:** [Click to play video on drive][cuelsa]
+<br/>
+
 **Framework:** [MDBootstrap](https://mdbootstrap.com/)
 
 -----
 <br/>
 
-[<img align="left" alt="pedros_pizza_app_thumbnail" title="click to play video" width="25%" src="./assets/my_projects/images/pedros_pizza_angular_webapp_codeforfood_landscapemode.png" />][pedros_pizza] 
+[<img align="left" alt="pedros_pizza_app_thumbnail" title="click to play video" width="40%" src="./assets/my_projects/images/pedros_pizza_angular_webapp_codeforfood_landscapemode.png" />][pedros_pizza] 
 
-It's a simple pizza scheduling and ordering web-app.
+**Pedros Pizza** is a simple pizza scheduling and ordering web-app.
 <br/>
 
 **URL:** Sorry client didn't provide.
+<br/>
+
+**Preview:** [Click to play video on drive][pedros_pizza]
 <br/>
 
 **Framework:** [Angular](https://angular.io/)
