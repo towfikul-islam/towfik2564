@@ -95,7 +95,7 @@
 **Aro’s Express** is an innovative logistics and door to door delivery service provider.
 <br/>
 
-**URL:** [http://cms.aros-express.com/auth/signin][arosexpress_domain]
+**URL:** [http://cms.aros-express.com/][arosexpress_domain]
 <br/>
 
 **Preview:** [Click to play video on drive][khamare]
