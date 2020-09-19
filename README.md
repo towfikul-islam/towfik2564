@@ -42,9 +42,9 @@
 
 ### Few mentionable completed/contributed projects:
 
-[<img align="left" alt="culsa_website_thumbnail" title="click to play video" width="40%" src="./assets/my_projects/images/cuelsa_website_codeforfood.png" />][cuelsa] 
+[<img align="left" alt="culsa_website_thumbnail" title="click to play video" width="40%" src="./assets/my_projects/images/cuelsa_wordpress_website_by_codeforfood.png" />][cuelsa] 
 
-**CUELSA** is an alumni assoication to build a self-motivated, self-directed and self-sustaining alumni association in Bangladesh.
+**CUELSA**, Chittagong University Ex-Law Students' Association, is an alumni assoication to build a self-motivated, self-directed and self-sustaining alumni association in Bangladesh.
 <br/>
 
 **URL:** [http://cuelsa.org/][cuelsa_domain]
@@ -58,7 +58,7 @@
 -----
 <br/>
 
-[<img align="left" alt="pedros_pizza_app_thumbnail" title="click to play video" width="40%" src="./assets/my_projects/images/pedros_pizza_angular_webapp_codeforfood_landscapemode.png" />][pedros_pizza] 
+[<img align="left" alt="pedrospizza_webapp_thumbnail" title="click to play video" width="40%" src="./assets/my_projects/images/pedrospizza_angular_webapp_by_codeforfood_landscapemode.png" />][pedros_pizza] 
 
 **Pedros Pizza** is a simple pizza scheduling and ordering web-app.
 <br/>
@@ -74,7 +74,7 @@
 -----
 <br/>
 
-[<img align="left" alt="khamare_website_thumbnail" title="click to play video" width="40%" src="./assets/my_projects/images/khamare_wordpress_website_codeforfood_landscapemode.png" />][khamare] 
+[<img align="left" alt="khamare_website_thumbnail" title="click to play video" width="40%" src="./assets/my_projects/images/khamare_wordpress_website_by_codeforfood_landscapemode.png" />][khamare] 
 
 **Khamar-e** is a dairy-tech solution provider, aiming at revolutionizing the dairy industry of Bangladesh.
 <br/>
@@ -88,6 +88,22 @@
 **Tools:** [Bootstrap](https://wordpress.org/), [Wordpress](https://wordpress.org/)
 
 -----
+<br/>
+
+[<img align="left" alt="arosexpress_cms_thumbnail" title="click to play video" width="40%" src="./assets/my_projects/images/arosexpress_angular_cms_by_codeforfood.png" />][khamare] 
+
+**Aro’s Express** is an innovative logistics and door to door delivery service provider.
+<br/>
+
+**URL:** [http://cms.aros-express.com/auth/signin][arosexpress_domain]
+<br/>
+
+**Preview:** [Click to play video on drive][khamare]
+<br/>
+
+**Tools:** [Bulma](http://bulma.io/), [Angular](https://angular.io/)
+
+-----
 
 [facebook]: https://www.facebook.com/towfikul.islam1/
 [website]: https://10minuteschool.com
@@ -98,3 +114,5 @@
 [cuelsa_domain]: http://cuelsa.org/
 [pedros_pizza]: https://drive.google.com/file/d/1z473GNFgoJKU0XYxLsGM6bDfWF7gIqBP/view?usp=sharing
 [khamare]: https://drive.google.com/file/d/1a7e9xvsFjm3G60tYb2Y5Qzfm5Qll3IKL/view?usp=sharing
+[arosexpress_domain]: http://cms.aros-express.com/auth/signin
+[arosexpress]: https://drive.google.com/file/d/1vz04Pej0ioqdPK7qVa8J8SB_NobNFEfk/view?usp=sharing
