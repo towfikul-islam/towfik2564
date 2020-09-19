@@ -74,7 +74,7 @@
 -----
 <br/>
 
-[<img align="left" alt="khamare_website_thumbnail" title="click to play video" width="40%" src="./assets/my_projects/images/khamare_wordpress_website_codeforfood_landscapemode.png.png" />][khamare] 
+[<img align="left" alt="khamare_website_thumbnail" title="click to play video" width="40%" src="./assets/my_projects/images/khamare_wordpress_website_codeforfood_landscapemode.png" />][khamare] 
 
 **Khamar-e** is a dairy-tech solution provider, aiming at revolutionizing the dairy industry of Bangladesh.
 <br/>
